@@ -1,3 +1,0 @@
-Accept-Charset:浏览器申明自己支持的字符集及字符集的相对优先顺序,通常我们说Charset包括了相应的**字符编码**方案.
-Accept-Encoding:告知服务器用户代理支持的内容编码及内容编码的优先级顺序。如gzip，compress，deflate.
-Content-Encoding:告知客户端服务器对实体主体部分选用的内容编码方式，内容编码是指在不丢失实体信息的前提下所进行的压缩.
